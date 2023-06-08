@@ -1,8 +1,10 @@
 # Agro.Network
 Agro global network geliştirme projesi. İş bu projenin ileriye dönük Roadmap tarzında geliştirme alanlarını ve genişleme potansiyel iç mekaniğini detaylıca anlatımını sağlayan ister listesi.
 
+Tamamen genel İş geliştirme yazısı.
 
 ## Ön kısaca özet ve isterler 
+
 --- 
 
 
@@ -49,28 +51,32 @@ Agro global network geliştirme projesi. İş bu projenin ileriye dönük Roadma
 
 - ### Agro Geribildirim ve Bildirim ödül Mekanizması (AGBM) : 
 
-    Agro ERP Web/Mobil uygulamarından herhangi birini kullanan kullanıcılar, veri geri bildirimi yaparak sistemin ve büyük veritabanının (AGRO Big Data) sisteminin büyümesine ve veri çokluğunun oluşmasına yardımcı olabiliceklerdir. Her yapılacak geri bildirim sisteminde veri değerlerine göre veya sayısına göre AgroCoin kazanabilecek ve kazandırabileceklerdir. Agro ERP Big data Sistemin daha hızlı büyümesi ve katkı sağlanması adına yapılacak en büyük ve hızlı özelliklerden birisi olacaktır. Hem kullanıcıların AgroCoin kazanma şansları olacak hem de Kullanıcı etkileşimlerini ve aktivitelerini arttırmak adına katkı sağlayacak bir özellik  `"Extension"` olacaktır. 
+    `Agro ERP Web/Mobil` uygulamarından herhangi birini kullanan kullanıcılar, veri geri bildirimi yaparak sistemin ve büyük veritabanının (`AGRO Big Data`) sisteminin büyümesine ve veri çokluğunun oluşmasına yardımcı olabiliceklerdir. Her yapılacak geri bildirim sisteminde veri değerlerine göre veya sayısına göre `AgroCoin` kazanabilecek ve kazandırabileceklerdir. `Agro ERP Big data` Sistemin daha hızlı büyümesi ve katkı sağlanması adına yapılacak en büyük ve hızlı özelliklerden birisi olacaktır. Hem kullanıcıların AgroCoin kazanma şansları olacak hem de Kullanıcı etkileşimlerini ve aktivitelerini arttırmak adına katkı sağlayacak bir özellik  `"Extension"` olacaktır. 
 
     Kullanıcılar aynı zaman da mevsimsel ve doğa olaylarında toprak analizlerini güncelleyebileceklerdir. Anlık güncel toprak ve doğa verileri Agro ERP sistemin de güncel ve aktif kalacaktır.
 
-- ### Agro TimeLine (AGT):
+- ### `Agro TimeLine (AGT)`:
 
-    Agro ERP Web/Mobil sisteminde kullanıcılar arazi ürünlerinin arsa,tarla,bahçe veya doğa da ekilmiş bir tohum,fidan gibi toprak mahsüllerinin zaman çizelgelerini oluşturabilir veya ürünlerinin güncel bilgi, görsel, verilerini zaman çizelgesine, tarihsel çizelgeye göre güncelleyebilir ekleyebilir ve ürünlerinin bitki,toprak,mahsüllerinin zamanla verisel ve görsel ne gibi değişimlere uğradığını nasıl evrimleştiğini detaylıca veya genel olarak izleyebbilir görebilirler. aynı zaman da, timeline'nın da paylaştığı ürünlerini diğer kullanıcılara açarak veya paylaşarak sunum veya veri paylaşımında bulunabilir, fikir alışverişi yapabilirler. iş burada paylaşılan her ürüne yorum alabilir veya yapabilirler. (yorumları kapatıp açabilirler.)
+    `Agro ERP Web/Mobil` sisteminde kullanıcılar arazi ürünlerinin arsa,tarla,bahçe veya doğa da ekilmiş bir tohum,fidan gibi toprak mahsüllerinin zaman çizelgelerini oluşturabilir veya ürünlerinin güncel bilgi, görsel, verilerini zaman çizelgesine, tarihsel çizelgeye göre güncelleyebilir ekleyebilir ve ürünlerinin bitki,toprak,mahsüllerinin zamanla verisel ve görsel ne gibi değişimlere uğradığını nasıl evrimleştiğini detaylıca veya genel olarak izleyebbilir görebilirler. 
+    
+    Aynı zaman da, timeline'nın da paylaştığı ürünlerini diğer kullanıcılara açarak veya paylaşarak sunum veya veri paylaşımında bulunabilir, fikir alışverişi yapabilirler. iş burada paylaşılan her ürüne yorum alabilir veya yapabilirler. (`yorumları kapatıp açabilirler.`)
 
 
 
 ---
 
-<br>
 
-        Genel ön bir Roadmap hazırlanmış olup geliştirilebilir bir vaziyette fikrii oluşum ve bilgi adımı atmak amacıyla bir fikirbirliği veya fikir geliştirme görüşleri yapılarak gelişimi sağlanabilir.
 
-        Agro Network oluşumu Tamamen Blokzincir veya Blockchain Genesis Network/AĞ olarak sağlanabilir ve daha da gelişime açılabilir bir ileri dönük vizyon gelişimi gösterebilir.
 
-        Agro Network tamamen kendi özel AĞINA sahip olmalı ve olacaktır. Blockchain teknolojisinin verdiği her gram kod ve yapı kullanılabilir vaziyette olacaktır.
+Genel ön bir Roadmap hazırlanmış olup geliştirilebilir bir vaziyette fikrii oluşum ve bilgi adımı atmak amacıyla bir fikirbirliği veya fikir geliştirme görüşleri yapılarak gelişimi sağlanabilir.
+
+Agro Network oluşumu Tamamen Blokzincir veya Blockchain Genesis Network/AĞ olarak sağlanabilir ve daha da gelişime açılabilir bir ileri dönük vizyon gelişimi gösterebilir.
+
+Agro Network tamamen kendi özel AĞINA sahip olmalı ve olacaktır. Blockchain teknolojisinin verdiği her gram kod ve yapı kullanılabilir vaziyette olacaktır.
 
 
 Not : bu dosya Tamamen Orkut Kaksa için Agro Network projesi için hazırlanmış ve tamamen iş geliştirme ve fikir birliği dosyası ve yazısıdır.
+
 
 
 Hazırlayan : Paro
