@@ -1,0 +1,46 @@
+site_name: ledger_v2
+site_url: https://docs.fetch.ai/ledger_v2/
+site_description: Documentation for the Fetch.ai ledger project
+repo_url: https://github.com/fetchai/agrod/
+site_author: developer@fetch.ai
+
+theme:
+  name: 'material'
+  feature:
+    tabs: true
+
+strict: true
+
+nav:
+  - Introduction: 'index.md'
+  - Installation: 'building.md'
+  - Versions: 'versions.md'
+  - Networks: 
+    - Active Networks: 'live-networks.md'
+    - Mainnet Archive: 'archived-networks.md'
+  - Snapshots: 'snapshots.md'
+  - State Sync: 'state-sync.md'
+  - Commandline Client:
+    - Introduction: 'cli-introduction.md'
+    - Keys: 'cli-keys.md'
+    # - BLS Signatures: 'cli-bls.md'
+    - Tokens: 'cli-tokens.md'
+    - Multisig Keys: 'cli-multisig.md'
+    - Delegator Guide: 'delegator-guide-cli.md'
+    - Governance Proposals: 'cli-governance.md'
+  - Validators:
+    - Overview: 'validators/overview.md'
+    - Security: 'validators/security.md'
+    # - FAQ: 'validators/validator-faq.md'
+    - Setup: 'validators/setup.md'
+  - Joining a Testnet: 'joining-a-testnet.md'
+  - Single Node Testnet: 'single-node-network.md'
+  - Block Explorer: 'block-explorer.md'
+  - Governance: 'governance.md'
+  - Faucet: 'faucet.md'
+
+extra_css:
+  - css/my-styles.css
+
+plugins:
+  - search
