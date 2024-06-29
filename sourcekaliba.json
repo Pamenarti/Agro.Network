@@ -3,39 +3,39 @@
     "title": "Agro Global Coin Scan",
     "url": "https://scan.agroglobalcoin.com",
     "group": "Mainnets",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg"
+    "icon": "https://raw.githubusercontent.com/Pamenarti/Agro.Network/main/fav-icon.png"
 },
 {
     "title": "Agro Global Coin Beacon",
     "url": "https://beacon.agroglobalcoin.com",
     "group": "Mainnets",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg"
+    "icon": "https://raw.githubusercontent.com/Pamenarti/Agro.Network/main/fav-icon.png"
 },
 {
     "title": "Agro Global Coin Blobscan",
     "url": "https://blob.agroglobalcoin.com",
     "group": "Mainnets",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg"
+    "icon": "https://raw.githubusercontent.com/Pamenarti/Agro.Network/main/fav-icon.png"
 },
 {
     "title": "Agro Global Testnet Scan",
     "url": "https://scan.agrotest.online",
     "group": "Testnets",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg",
+    "icon": "https://raw.githubusercontent.com/Pamenarti/Agro.Network/main/fav-icon.png",
     "invertIconInDarkMode": true
 },
 {
     "title": "Agro Global Testnet Beacon",
     "url": "https://beacon.agrotest.online",
     "group": "Testnets",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg",
+    "icon": "https://raw.githubusercontent.com/Pamenarti/Agro.Network/main/fav-icon.png",
     "invertIconInDarkMode": true
 },
 {
     "title": "Agro Testnet Blobscan",
     "url": "https://blob.agrotest.online",
     "group": "Testnets",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg",
+    "icon": "https://raw.githubusercontent.com/Pamenarti/Agro.Network/main/fav-icon.png",
     "invertIconInDarkMode": true
 }
 ] 
