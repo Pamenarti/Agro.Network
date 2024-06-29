@@ -1,9 +1,9 @@
 [
 {
-"title": "Agro Global Coin",
-"url": "https://scan.agroglobalcoin.com",
-"group": "Mainnets",
-"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg"
+    "title": "Agro Global Coin",
+    "url": "https://scan.agroglobalcoin.com",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg"
 },
 {
     "title": "Agro Global Coin Beacon",
@@ -22,20 +22,20 @@
     "url": "https://scan.agrotest.online",
     "group": "Testnets",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg",
-"invertIconInDarkMode": true
+    "invertIconInDarkMode": true
 },
 {
     "title": "Agro Global Testnet Beacon",
     "url": "https://beacon.agrotest.online",
     "group": "Testnets",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg",
-"invertIconInDarkMode": true
+    "invertIconInDarkMode": true
 },
 {
     "title": "Agro Testnet Blobscan",
     "url": "https://blob.agrotest.online",
     "group": "Testnets",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg",
-"invertIconInDarkMode": true
+    "invertIconInDarkMode": true
 }
 ] 
