@@ -1,38 +1,42 @@
 [
-    {
-    "title": "Agro Global Coin",
-    "url": "https://scan.agroglobalcoin.com/",
+{
+"title": "Agro Global Coin",
+"url": "https://scan.agroglobalcoin.com",
+"group": "Mainnets",
+"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg"
+},
+{
+    "title": "Agro Global Coin Beacon",
+    "url": "https://beacon.agroglobalcoin.com",
     "group": "Mainnets",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg"
-    },
-    {
-     "title": "Agro Global Coin Beacon",
-     "url": "https://beacon.agroglobalcoin.com/",
-     "group": "Mainnets",
-     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg"
-    },
-    {
-     "title": "Agro Global Coin Blobscan",
-     "url": "https://blob.agroglobalcoin.com/",
-     "group": "Mainnets",
-     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg"
-    },
-    {
+},
+{
+    "title": "Agro Global Coin Blobscan",
+    "url": "https://blob.agroglobalcoin.com",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg"
+},
+{
     "title": "Agro Global Testnet Scan",
-    "url": "https://scan.agroglobalcoin.com/",
-    "group": "Testnet",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg"
-    },
-    {
+    "url": "https://scan.agrotest.online",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg",
+"invertIconInDarkMode": true,
+"isActive": true
+},
+{
     "title": "Agro Global Testnet Beacon",
-    "url": "https://beacon.agroglobalcoin.com/",
-    "group": "Testnet",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg"
-    },
-    {
+    "url": "https://beacon.agrotest.online",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg",
+"invertIconInDarkMode": true
+},
+{
     "title": "Agro Global Testnet Blobscan",
-    "url": "https://blob.agroglobalcoin.com/",
-    "group": "Testnet",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg"
-    }
-    ]
+    "url": "https://blob.agrotest.online",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg",
+"invertIconInDarkMode": true
+}
+]
